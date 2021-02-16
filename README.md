@@ -10,9 +10,9 @@
 
 ## 🛠 사용 기술
 
-| Front-End | Back-End | DataBase | Server | Tool |
-| --- | --- | --- | --- | --- |
-| HTML5<br>CSS3<br>JavaScript<br>ES6 | Spring boot | Mysql | Apache Tomcat | Spring Tool Suite<br>Git<br>Notion<br>Adobe XD<br>Photoshop |
+| Front-End | Back-End | DataBase | Server | Library & Framework | Tool |
+| --- | --- | --- | --- | --- | --- |
+| HTML5<br>CSS3<br>JavaScript<br>ES6 | Spring boot | Mysql | Apache Tomcat | Spring Security<br>MyBatis<br>Gson<br>Ckeditor<br>AOS<br>Google API | Spring Tool Suite<br>Git<br>Notion<br>Adobe XD<br>Photoshop |
 
 ## 📅 개발 기간
 ![또바기 프로젝트 일정](https://user-images.githubusercontent.com/65852909/108054741-66f80b00-7092-11eb-8395-07088b71c6a7.png)
